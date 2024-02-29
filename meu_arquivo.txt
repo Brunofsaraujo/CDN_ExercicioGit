@@ -1,0 +1,7 @@
+Arquivo criação para exercício de introdução ao GIT
+
+Disciplina: Projeto Integrador 1
+
+Instituição: Faculdade de tecnologia de Votorantim
+
+Exercício: Criação de repositório e armazenamento de arquivos no Github.
